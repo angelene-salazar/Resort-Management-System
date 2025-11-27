@@ -1,7 +1,7 @@
-# AL-Suite-Management-System
+# Resort Management System
 Angelene B. Salazar/
 Louie Gabriel A. Morales
 
 BSIT - 2102
 
-A simple hotel management system built with SQLite and Python that automates room booking, guest registration, check-in/check-out processing, and payment tracking. The project implements Object-Oriented Programming principles to improve efficiency, accuracy, and organization of hotel records through a menu-based interface.
+A simple resort management system built with SQLite and Python that automates room reservation, guest registration, swim-only guest entry, table usage and payment tracking. The project implements Object-Oriented Programming principles to improve efficiency, accuracy, and organization of resort records through a menu-based interface.
